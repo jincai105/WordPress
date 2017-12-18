@@ -1,0 +1,4093 @@
+[Mon, 20 Nov 2017 16:53:38 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1511195854,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Lw',
+    'name' => 'test',
+    'rootRev' => '',
+    'options' => 
+    array (
+      'path' => '',
+      'url' => 'http://pearlny.org/test/',
+      'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+      'disabled' => 
+      array (
+        0 => 'chmod',
+      ),
+      'separator' => '/',
+      'copyOverwrite' => 1,
+      'uploadOverwrite' => 1,
+      'uploadMaxSize' => 9223372036854775807,
+      'uploadMaxConn' => 3,
+      'uploadMime' => 
+      array (
+        'firstOrder' => 'allow',
+        'allow' => 
+        array (
+          0 => 'text',
+          1 => 'image',
+          2 => 'video',
+          3 => 'audio',
+          4 => 'application',
+          5 => 'model',
+          6 => 'chemical',
+          7 => 'x-conference',
+          8 => 'message',
+        ),
+        'deny' => 
+        array (
+        ),
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'jpgQuality' => 100,
+      'archivers' => 
+      array (
+        'create' => 
+        array (
+          0 => 'application/x-tar',
+          1 => 'application/x-gzip',
+          2 => 'application/x-bzip2',
+          3 => 'application/zip',
+        ),
+        'extract' => 
+        array (
+          0 => 'application/x-tar',
+          1 => 'application/x-gzip',
+          2 => 'application/x-bzip2',
+          3 => 'application/zip',
+        ),
+        'createext' => 
+        array (
+          'application/x-tar' => 'tar',
+          'application/x-gzip' => 'tgz',
+          'application/x-bzip2' => 'tbz',
+          'application/zip' => 'zip',
+        ),
+      ),
+      'uiCmdMap' => 
+      array (
+      ),
+      'syncChkAsTs' => 1,
+      'syncMinMs' => 10000,
+      'i18nFolderName' => 0,
+      'tmbCrop' => 1,
+      'csscls' => 'elfinder-navbar-root-local',
+    ),
+    'volumeid' => 'l1_',
+    'locked' => 1,
+    'dirs' => 1,
+    'isroot' => 1,
+    'phash' => '',
+    'root' => 'l1_Lw',
+  ),
+  'options' => 
+  array (
+    'path' => 'test',
+    'url' => 'http://pearlny.org/test/',
+    'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1511195854,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'test',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'http://pearlny.org/test/',
+        'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/zip',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/zip',
+          ),
+          'createext' => 
+          array (
+            'application/x-tar' => 'tar',
+            'application/x-gzip' => 'tgz',
+            'application/x-bzip2' => 'tbz',
+            'application/zip' => 'zip',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196809,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510770137,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3059',
+      'hash' => 'l1_d3AtY29uZmlnLnBocA',
+      'name' => 'wp-config.php',
+      'phash' => 'l1_Lw',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507110646,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16246',
+      'hash' => 'l1_d3Atc2V0dGluZ3MucGhw',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Lw',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851609,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1450561828,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_d3AtYmxvZy1oZWFkZXIucGhw',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Lw',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510770530,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19',
+      'hash' => 'l1_aW5mby5waHA',
+      'name' => 'info.php',
+      'phash' => 'l1_Lw',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1481567500,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7413',
+      'hash' => 'l1_cmVhZG1lLmh0bWw',
+      'name' => 'readme.html',
+      'phash' => 'l1_Lw',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1483417722,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19935',
+      'hash' => 'l1_bGljZW5zZS50eHQ',
+      'name' => 'license.txt',
+      'phash' => 'l1_Lw',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'unknown',
+      'ts' => 1510770139,
+      'read' => 1,
+      'write' => 1,
+      'size' => '245',
+      'hash' => 'l1_YmFrLmh0YWNjZXNz',
+      'name' => 'bak.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508830972,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4620',
+      'hash' => 'l1_d3AtdHJhY2tiYWNrLnBocA',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Lw',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1472695290,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_eG1scnBjLnBocA',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Lw',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1506203508,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5434',
+      'hash' => 'l1_d3AtYWN0aXZhdGUucGhw',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Lw',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1503436968,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3306',
+      'hash' => 'l1_d3AtbG9hZC5waHA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Lw',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484149424,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_d3AtbWFpbC5waHA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Lw',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508382410,
+      'read' => 1,
+      'write' => 1,
+      'size' => '30071',
+      'hash' => 'l1_d3Atc2lnbnVwLnBocA',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Lw',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'unknown',
+      'ts' => 1510784019,
+      'read' => 1,
+      'write' => 1,
+      'size' => '245',
+      'hash' => 'l1_Lmh0YWNjZXNz',
+      'name' => '.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380102492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_aW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_Lw',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1479734190,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_d3AtbGlua3Mtb3BtbC5waHA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Lw',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1472506232,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_d3AtY29tbWVudHMtcG9zdC5waHA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Lw',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507894848,
+      'read' => 1,
+      'write' => 1,
+      'size' => '36583',
+      'hash' => 'l1_d3AtbG9naW4ucGhw',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Lw',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1450297706,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2853',
+      'hash' => 'l1_d3AtY29uZmlnLXNhbXBsZS5waHA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Lw',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1503238066,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3669',
+      'hash' => 'l1_d3AtY3Jvbi5waHA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Lw',
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851609,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196818,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+  ),
+  'api' => '2.1',
+  'uplMaxSize' => '128M',
+  'uplMaxFile' => '20',
+  'netDrivers' => 
+  array (
+  ),
+  'maxTargets' => 1000,
+) 
+[Mon, 20 Nov 2017 16:54:00 +0000] TREE: array (
+  'tree' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1511196809,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511190567,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'name' => 'themes',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5z',
+      'name' => 'plugins',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGdyYWRl',
+      'name' => 'upgrade',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196782,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGxvYWRz',
+      'name' => 'uploads',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510857370,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9jYWNoZQ',
+      'name' => 'cache',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:54:02 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1510857370,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudC9jYWNoZQ',
+    'name' => 'cache',
+    'phash' => 'l1_d3AtY29udGVudA',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'test/wp-content/cache',
+    'url' => 'http://pearlny.org/test/',
+    'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510857591,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9jYWNoZS9uZXh0ZW5k',
+      'name' => 'nextend',
+      'phash' => 'l1_d3AtY29udGVudC9jYWNoZQ',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:54:03 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1511196818,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Lw',
+    'name' => 'test',
+    'rootRev' => '',
+    'options' => 
+    array (
+      'path' => '',
+      'url' => 'http://pearlny.org/test/',
+      'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+      'disabled' => 
+      array (
+        0 => 'chmod',
+      ),
+      'separator' => '/',
+      'copyOverwrite' => 1,
+      'uploadOverwrite' => 1,
+      'uploadMaxSize' => 9223372036854775807,
+      'uploadMaxConn' => 3,
+      'uploadMime' => 
+      array (
+        'firstOrder' => 'allow',
+        'allow' => 
+        array (
+          0 => 'text',
+          1 => 'image',
+          2 => 'video',
+          3 => 'audio',
+          4 => 'application',
+          5 => 'model',
+          6 => 'chemical',
+          7 => 'x-conference',
+          8 => 'message',
+        ),
+        'deny' => 
+        array (
+        ),
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'jpgQuality' => 100,
+      'archivers' => 
+      array (
+        'create' => 
+        array (
+          0 => 'application/x-tar',
+          1 => 'application/x-gzip',
+          2 => 'application/x-bzip2',
+          3 => 'application/zip',
+        ),
+        'extract' => 
+        array (
+          0 => 'application/x-tar',
+          1 => 'application/x-gzip',
+          2 => 'application/x-bzip2',
+          3 => 'application/zip',
+        ),
+        'createext' => 
+        array (
+          'application/x-tar' => 'tar',
+          'application/x-gzip' => 'tgz',
+          'application/x-bzip2' => 'tbz',
+          'application/zip' => 'zip',
+        ),
+      ),
+      'uiCmdMap' => 
+      array (
+      ),
+      'syncChkAsTs' => 1,
+      'syncMinMs' => 10000,
+      'i18nFolderName' => 0,
+      'tmbCrop' => 1,
+      'csscls' => 'elfinder-navbar-root-local',
+    ),
+    'volumeid' => 'l1_',
+    'locked' => 1,
+    'dirs' => 1,
+    'isroot' => 1,
+    'phash' => '',
+  ),
+  'options' => 
+  array (
+    'path' => 'test',
+    'url' => 'http://pearlny.org/test/',
+    'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1511196818,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'test',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'http://pearlny.org/test/',
+        'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/zip',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/x-tar',
+            1 => 'application/x-gzip',
+            2 => 'application/x-bzip2',
+            3 => 'application/zip',
+          ),
+          'createext' => 
+          array (
+            'application/x-tar' => 'tar',
+            'application/x-gzip' => 'tgz',
+            'application/x-bzip2' => 'tbz',
+            'application/zip' => 'zip',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196809,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510770137,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3059',
+      'hash' => 'l1_d3AtY29uZmlnLnBocA',
+      'name' => 'wp-config.php',
+      'phash' => 'l1_Lw',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507110646,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16246',
+      'hash' => 'l1_d3Atc2V0dGluZ3MucGhw',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Lw',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851609,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1450561828,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_d3AtYmxvZy1oZWFkZXIucGhw',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Lw',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510770530,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19',
+      'hash' => 'l1_aW5mby5waHA',
+      'name' => 'info.php',
+      'phash' => 'l1_Lw',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1481567500,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7413',
+      'hash' => 'l1_cmVhZG1lLmh0bWw',
+      'name' => 'readme.html',
+      'phash' => 'l1_Lw',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1483417722,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19935',
+      'hash' => 'l1_bGljZW5zZS50eHQ',
+      'name' => 'license.txt',
+      'phash' => 'l1_Lw',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'unknown',
+      'ts' => 1510770139,
+      'read' => 1,
+      'write' => 1,
+      'size' => '245',
+      'hash' => 'l1_YmFrLmh0YWNjZXNz',
+      'name' => 'bak.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508830972,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4620',
+      'hash' => 'l1_d3AtdHJhY2tiYWNrLnBocA',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Lw',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1472695290,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_eG1scnBjLnBocA',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Lw',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1506203508,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5434',
+      'hash' => 'l1_d3AtYWN0aXZhdGUucGhw',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Lw',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1503436968,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3306',
+      'hash' => 'l1_d3AtbG9hZC5waHA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Lw',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484149424,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_d3AtbWFpbC5waHA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Lw',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508382410,
+      'read' => 1,
+      'write' => 1,
+      'size' => '30071',
+      'hash' => 'l1_d3Atc2lnbnVwLnBocA',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Lw',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'unknown',
+      'ts' => 1510784019,
+      'read' => 1,
+      'write' => 1,
+      'size' => '245',
+      'hash' => 'l1_Lmh0YWNjZXNz',
+      'name' => '.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380102492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_aW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_Lw',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1479734190,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_d3AtbGlua3Mtb3BtbC5waHA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Lw',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1472506232,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_d3AtY29tbWVudHMtcG9zdC5waHA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Lw',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507894848,
+      'read' => 1,
+      'write' => 1,
+      'size' => '36583',
+      'hash' => 'l1_d3AtbG9naW4ucGhw',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Lw',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1450297706,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2853',
+      'hash' => 'l1_d3AtY29uZmlnLXNhbXBsZS5waHA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Lw',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1503238066,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3669',
+      'hash' => 'l1_d3AtY3Jvbi5waHA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Lw',
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851609,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196818,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:54:04 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1511196809,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudA',
+    'name' => 'wp-content',
+    'phash' => 'l1_Lw',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'test/wp-content',
+    'url' => 'http://pearlny.org/test/',
+    'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511190567,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'name' => 'themes',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5z',
+      'name' => 'plugins',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGdyYWRl',
+      'name' => 'upgrade',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196782,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGxvYWRz',
+      'name' => 'uploads',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1326079872,
+      'read' => 1,
+      'write' => 1,
+      'size' => '28',
+      'hash' => 'l1_d3AtY29udGVudC9pbmRleC5waHA',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudA',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510857370,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9jYWNoZQ',
+      'name' => 'cache',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:54:07 +0000] TREE: array (
+  'tree' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1510851609,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851609,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vdXNlcg',
+      'name' => 'user',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851608,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vY3Nz',
+      'name' => 'css',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vaW1hZ2Vz',
+      'name' => 'images',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vaW5jbHVkZXM',
+      'name' => 'includes',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851609,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vbmV0d29yaw',
+      'name' => 'network',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851609,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vanM',
+      'name' => 'js',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vbWFpbnQ',
+      'name' => 'maint',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:54:10 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1510851609,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtYWRtaW4',
+    'name' => 'wp-admin',
+    'phash' => 'l1_Lw',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'test/wp-admin',
+    'url' => 'http://pearlny.org/test/',
+    'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1506297174,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2099',
+      'hash' => 'l1_d3AtYWRtaW4vdG9vbHMucGhw',
+      'name' => 'tools.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481179726,
+      'read' => 1,
+      'write' => 1,
+      'size' => '6036',
+      'hash' => 'l1_d3AtYWRtaW4vZWRpdC1saW5rLWZvcm0ucGhw',
+      'name' => 'edit-link-form.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1503436968,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5322',
+      'hash' => 'l1_d3AtYWRtaW4vbmV0d29yay5waHA',
+      'name' => 'network.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507757808,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2562',
+      'hash' => 'l1_d3AtYWRtaW4vcG9zdC1uZXcucGhw',
+      'name' => 'post-new.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851609,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vdXNlcg',
+      'name' => 'user',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508964106,
+      'read' => 1,
+      'write' => 1,
+      'size' => '18208',
+      'hash' => 'l1_d3AtYWRtaW4vb3B0aW9ucy1wZXJtYWxpbmsucGhw',
+      'name' => 'options-permalink.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1467247590,
+      'read' => 1,
+      'write' => 1,
+      'size' => '700',
+      'hash' => 'l1_d3AtYWRtaW4vbGluay1hZGQucGhw',
+      'name' => 'link-add.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851608,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vY3Nz',
+      'name' => 'css',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481726922,
+      'read' => 1,
+      'write' => 1,
+      'size' => '13949',
+      'hash' => 'l1_d3AtYWRtaW4vZWRpdC1jb21tZW50cy5waHA',
+      'name' => 'edit-comments.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507599288,
+      'read' => 1,
+      'write' => 1,
+      'size' => '10235',
+      'hash' => 'l1_d3AtYWRtaW4vdXBkYXRlLnBocA',
+      'name' => 'update.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vaW1hZ2Vz',
+      'name' => 'images',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508876512,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8290',
+      'hash' => 'l1_d3AtYWRtaW4vb3B0aW9ucy13cml0aW5nLnBocA',
+      'name' => 'options-writing.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485003146,
+      'read' => 1,
+      'write' => 1,
+      'size' => '15832',
+      'hash' => 'l1_d3AtYWRtaW4vZWRpdC5waHA',
+      'name' => 'edit.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1467843030,
+      'read' => 1,
+      'write' => 1,
+      'size' => '340',
+      'hash' => 'l1_d3AtYWRtaW4vdXBncmFkZS1mdW5jdGlvbnMucGhw',
+      'name' => 'upgrade-functions.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508920248,
+      'read' => 1,
+      'write' => 1,
+      'size' => '10531',
+      'hash' => 'l1_d3AtYWRtaW4vYWRtaW4ucGhw',
+      'name' => 'admin.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510554638,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3568',
+      'hash' => 'l1_d3AtYWRtaW4vZnJlZWRvbXMucGhw',
+      'name' => 'freedoms.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380102492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '230',
+      'hash' => 'l1_d3AtYWRtaW4vbXMtdGhlbWVzLnBocA',
+      'name' => 'ms-themes.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1506563984,
+      'read' => 1,
+      'write' => 1,
+      'size' => '18456',
+      'hash' => 'l1_d3AtYWRtaW4vd2lkZ2V0cy5waHA',
+      'name' => 'widgets.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1463199092,
+      'read' => 1,
+      'write' => 1,
+      'size' => '488',
+      'hash' => 'l1_d3AtYWRtaW4vb3B0aW9ucy1oZWFkLnBocA',
+      'name' => 'options-head.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508905068,
+      'read' => 1,
+      'write' => 1,
+      'size' => '13022',
+      'hash' => 'l1_d3AtYWRtaW4vcGx1Z2luLWVkaXRvci5waHA',
+      'name' => 'plugin-editor.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380102492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '232',
+      'hash' => 'l1_d3AtYWRtaW4vbXMtdXBncmFkZS1uZXR3b3JrLnBocA',
+      'name' => 'ms-upgrade-network.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510738480,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16153',
+      'hash' => 'l1_d3AtYWRtaW4vYWJvdXQucGhw',
+      'name' => 'about.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507757808,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8123',
+      'hash' => 'l1_d3AtYWRtaW4vcG9zdC5waHA',
+      'name' => 'post.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1471924532,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3320',
+      'hash' => 'l1_d3AtYWRtaW4vbWVkaWEtdXBsb2FkLnBocA',
+      'name' => 'media-upload.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508408330,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3997',
+      'hash' => 'l1_d3AtYWRtaW4vbXMtZGVsZXRlLXNpdGUucGhw',
+      'name' => 'ms-delete-site.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1505350244,
+      'read' => 1,
+      'write' => 1,
+      'size' => '20393',
+      'hash' => 'l1_d3AtYWRtaW4vZWRpdC10YWdzLnBocA',
+      'name' => 'edit-tags.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380102492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '296',
+      'hash' => 'l1_d3AtYWRtaW4vcHJvZmlsZS5waHA',
+      'name' => 'profile.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1444900466,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5750',
+      'hash' => 'l1_d3AtYWRtaW4vaW5zdGFsbC1oZWxwZXIucGhw',
+      'name' => 'install-helper.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1468146090,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2625',
+      'hash' => 'l1_d3AtYWRtaW4vbGluay5waHA',
+      'name' => 'link.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    29 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1504587644,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16160',
+      'hash' => 'l1_d3AtYWRtaW4vaW5zdGFsbC5waHA',
+      'name' => 'install.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    30 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508420928,
+      'read' => 1,
+      'write' => 1,
+      'size' => '46388',
+      'hash' => 'l1_d3AtYWRtaW4vY3VzdG9tLWhlYWRlci5waHA',
+      'name' => 'custom-header.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    31 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481191240,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5265',
+      'hash' => 'l1_d3AtYWRtaW4vbWVkaWEucGhw',
+      'name' => 'media.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    32 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510470878,
+      'read' => 1,
+      'write' => 1,
+      'size' => '14390',
+      'hash' => 'l1_d3AtYWRtaW4vdGhlbWUtZWRpdG9yLnBocA',
+      'name' => 'theme-editor.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    33 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1479729152,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5039',
+      'hash' => 'l1_d3AtYWRtaW4vcmV2aXNpb24ucGhw',
+      'name' => 'revision.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    34 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1505002844,
+      'read' => 1,
+      'write' => 1,
+      'size' => '9502',
+      'hash' => 'l1_d3AtYWRtaW4vbWVudS1oZWFkZXIucGhw',
+      'name' => 'menu-header.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    35 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380102492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '236',
+      'hash' => 'l1_d3AtYWRtaW4vbXMtb3B0aW9ucy5waHA',
+      'name' => 'ms-options.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    36 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1506942888,
+      'read' => 1,
+      'write' => 1,
+      'size' => '21610',
+      'hash' => 'l1_d3AtYWRtaW4vdXNlci1uZXcucGhw',
+      'name' => 'user-new.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    37 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380102492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '320',
+      'hash' => 'l1_d3AtYWRtaW4vbW9kZXJhdGlvbi5waHA',
+      'name' => 'moderation.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    38 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1503436968,
+      'read' => 1,
+      'write' => 1,
+      'size' => '11446',
+      'hash' => 'l1_d3AtYWRtaW4vb3B0aW9ucy5waHA',
+      'name' => 'options.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    39 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510554638,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2067',
+      'hash' => 'l1_d3AtYWRtaW4vcHJpdmFjeS5waHA',
+      'name' => 'privacy.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    40 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380102492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '228',
+      'hash' => 'l1_d3AtYWRtaW4vbXMtc2l0ZXMucGhw',
+      'name' => 'ms-sites.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    41 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1506045948,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3567',
+      'hash' => 'l1_d3AtYWRtaW4vYXN5bmMtdXBsb2FkLnBocA',
+      'name' => 'async-upload.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    42 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1491016124,
+      'read' => 1,
+      'write' => 1,
+      'size' => '13225',
+      'hash' => 'l1_d3AtYWRtaW4vdXBsb2FkLnBocA',
+      'name' => 'upload.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    43 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1475647054,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3097',
+      'hash' => 'l1_d3AtYWRtaW4vbWVkaWEtbmV3LnBocA',
+      'name' => 'media-new.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    44 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1484010522,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2608',
+      'hash' => 'l1_d3AtYWRtaW4vYWRtaW4tZm9vdGVyLnBocA',
+      'name' => 'admin-footer.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    45 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510554638,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4906',
+      'hash' => 'l1_d3AtYWRtaW4vY3JlZGl0cy5waHA',
+      'name' => 'credits.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    46 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vaW5jbHVkZXM',
+      'name' => 'includes',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+    ),
+    47 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1475598270,
+      'read' => 1,
+      'write' => 1,
+      'size' => '10459',
+      'hash' => 'l1_d3AtYWRtaW4vY29tbWVudC5waHA',
+      'name' => 'comment.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    48 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1506139308,
+      'read' => 1,
+      'write' => 1,
+      'size' => '18311',
+      'hash' => 'l1_d3AtYWRtaW4vdXNlcnMucGhw',
+      'name' => 'users.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    49 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1475647054,
+      'read' => 1,
+      'write' => 1,
+      'size' => '10709',
+      'hash' => 'l1_d3AtYWRtaW4vZXhwb3J0LnBocA',
+      'name' => 'export.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    50 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1505094644,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8353',
+      'hash' => 'l1_d3AtYWRtaW4vb3B0aW9ucy1yZWFkaW5nLnBocA',
+      'name' => 'options-reading.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    51 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1475647054,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7194',
+      'hash' => 'l1_d3AtYWRtaW4vaW1wb3J0LnBocA',
+      'name' => 'import.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    52 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510240538,
+      'read' => 1,
+      'write' => 1,
+      'size' => '9468',
+      'hash' => 'l1_d3AtYWRtaW4vY3VzdG9taXplLnBocA',
+      'name' => 'customize.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    53 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1472695290,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2197',
+      'hash' => 'l1_d3AtYWRtaW4vbG9hZC1zY3JpcHRzLnBocA',
+      'name' => 'load-scripts.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    54 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851609,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vbmV0d29yaw',
+      'name' => 'network',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+    ),
+    55 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1477318532,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2401',
+      'hash' => 'l1_d3AtYWRtaW4vbGluay1wYXJzZS1vcG1sLnBocA',
+      'name' => 'link-parse-opml.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    56 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507596766,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4618',
+      'hash' => 'l1_d3AtYWRtaW4vbXktc2l0ZXMucGhw',
+      'name' => 'my-sites.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    57 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1467843030,
+      'read' => 1,
+      'write' => 1,
+      'size' => '405',
+      'hash' => 'l1_d3AtYWRtaW4vYWRtaW4tZnVuY3Rpb25zLnBocA',
+      'name' => 'admin-functions.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    58 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508915808,
+      'read' => 1,
+      'write' => 1,
+      'size' => '14925',
+      'hash' => 'l1_d3AtYWRtaW4vdGhlbWUtaW5zdGFsbC5waHA',
+      'name' => 'theme-install.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    59 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508825928,
+      'read' => 1,
+      'write' => 1,
+      'size' => '6147',
+      'hash' => 'l1_d3AtYWRtaW4vaW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    60 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508825928,
+      'read' => 1,
+      'write' => 1,
+      'size' => '22769',
+      'hash' => 'l1_d3AtYWRtaW4vcGx1Z2lucy5waHA',
+      'name' => 'plugins.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    61 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380102492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '231',
+      'hash' => 'l1_d3AtYWRtaW4vbXMtZWRpdC5waHA',
+      'name' => 'ms-edit.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    62 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508825928,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4268',
+      'hash' => 'l1_d3AtYWRtaW4vYWRtaW4tYWpheC5waHA',
+      'name' => 'admin-ajax.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    63 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510851609,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vanM',
+      'name' => 'js',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    64 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1456442608,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1686',
+      'hash' => 'l1_d3AtYWRtaW4vYWRtaW4tcG9zdC5waHA',
+      'name' => 'admin-post.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    65 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1481179726,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3924',
+      'hash' => 'l1_d3AtYWRtaW4vbGluay1tYW5hZ2VyLnBocA',
+      'name' => 'link-manager.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    66 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1506557386,
+      'read' => 1,
+      'write' => 1,
+      'size' => '9300',
+      'hash' => 'l1_d3AtYWRtaW4vZWRpdC10YWctZm9ybS5waHA',
+      'name' => 'edit-tag-form.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    67 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508374674,
+      'read' => 1,
+      'write' => 1,
+      'size' => '15162',
+      'hash' => 'l1_d3AtYWRtaW4vc2V0dXAtY29uZmlnLnBocA',
+      'name' => 'setup-config.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    68 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1479734190,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7337',
+      'hash' => 'l1_d3AtYWRtaW4vYWRtaW4taGVhZGVyLnBocA',
+      'name' => 'admin-header.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    69 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507592328,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2286',
+      'hash' => 'l1_d3AtYWRtaW4vcHJlc3MtdGhpcy5waHA',
+      'name' => 'press-this.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    70 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1449649588,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4512',
+      'hash' => 'l1_d3AtYWRtaW4vdXBncmFkZS5waHA',
+      'name' => 'upgrade.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    71 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4vbWFpbnQ',
+      'name' => 'maint',
+      'phash' => 'l1_d3AtYWRtaW4',
+      'volumeid' => 'l1_',
+    ),
+    72 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1494651402,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2093',
+      'hash' => 'l1_d3AtYWRtaW4vdGVybS5waHA',
+      'name' => 'term.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    73 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380102492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '211',
+      'hash' => 'l1_d3AtYWRtaW4vbXMtYWRtaW4ucGhw',
+      'name' => 'ms-admin.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    74 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508876512,
+      'read' => 1,
+      'write' => 1,
+      'size' => '14970',
+      'hash' => 'l1_d3AtYWRtaW4vb3B0aW9ucy1nZW5lcmFsLnBocA',
+      'name' => 'options-general.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    75 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1472695290,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2881',
+      'hash' => 'l1_d3AtYWRtaW4vbG9hZC1zdHlsZXMucGhw',
+      'name' => 'load-styles.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    76 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508140428,
+      'read' => 1,
+      'write' => 1,
+      'size' => '40783',
+      'hash' => 'l1_d3AtYWRtaW4vbmF2LW1lbnVzLnBocA',
+      'name' => 'nav-menus.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    77 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507194826,
+      'read' => 1,
+      'write' => 1,
+      'size' => '31217',
+      'hash' => 'l1_d3AtYWRtaW4vdXBkYXRlLWNvcmUucGhw',
+      'name' => 'update-core.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    78 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1508736832,
+      'read' => 1,
+      'write' => 1,
+      'size' => '21277',
+      'hash' => 'l1_d3AtYWRtaW4vdGhlbWVzLnBocA',
+      'name' => 'themes.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    79 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501150244,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19901',
+      'hash' => 'l1_d3AtYWRtaW4vY3VzdG9tLWJhY2tncm91bmQucGhw',
+      'name' => 'custom-background.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    80 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1503436968,
+      'read' => 1,
+      'write' => 1,
+      'size' => '6216',
+      'hash' => 'l1_d3AtYWRtaW4vcGx1Z2luLWluc3RhbGwucGhw',
+      'name' => 'plugin-install.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    81 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1380102492,
+      'read' => 1,
+      'write' => 1,
+      'size' => '228',
+      'hash' => 'l1_d3AtYWRtaW4vbXMtdXNlcnMucGhw',
+      'name' => 'ms-users.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    82 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510810238,
+      'read' => 1,
+      'write' => 1,
+      'size' => '32813',
+      'hash' => 'l1_d3AtYWRtaW4vZWRpdC1mb3JtLWFkdmFuY2VkLnBocA',
+      'name' => 'edit-form-advanced.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    83 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1505889888,
+      'read' => 1,
+      'write' => 1,
+      'size' => '27582',
+      'hash' => 'l1_d3AtYWRtaW4vdXNlci1lZGl0LnBocA',
+      'name' => 'user-edit.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    84 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1503115304,
+      'read' => 1,
+      'write' => 1,
+      'size' => '13033',
+      'hash' => 'l1_d3AtYWRtaW4vbWVudS5waHA',
+      'name' => 'menu.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    85 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1474160970,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7325',
+      'hash' => 'l1_d3AtYWRtaW4vZWRpdC1mb3JtLWNvbW1lbnQucGhw',
+      'name' => 'edit-form-comment.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    86 => 
+    array (
+      'isowner' => false,
+      'mime' => 'unknown',
+      'ts' => 1511196847,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7188',
+      'hash' => 'l1_d3AtYWRtaW4vZXJyb3JfbG9n',
+      'name' => 'error_log',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    87 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507814328,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5933',
+      'hash' => 'l1_d3AtYWRtaW4vb3B0aW9ucy1tZWRpYS5waHA',
+      'name' => 'options-media.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+    88 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1507070388,
+      'read' => 1,
+      'write' => 1,
+      'size' => '14450',
+      'hash' => 'l1_d3AtYWRtaW4vb3B0aW9ucy1kaXNjdXNzaW9uLnBocA',
+      'name' => 'options-discussion.php',
+      'phash' => 'l1_d3AtYWRtaW4',
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:54:13 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1511196809,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudA',
+    'name' => 'wp-content',
+    'phash' => 'l1_Lw',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'test/wp-content',
+    'url' => 'http://pearlny.org/test/',
+    'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511190567,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'name' => 'themes',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5z',
+      'name' => 'plugins',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGdyYWRl',
+      'name' => 'upgrade',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1511196782,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGxvYWRz',
+      'name' => 'uploads',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1326079872,
+      'read' => 1,
+      'write' => 1,
+      'size' => '28',
+      'hash' => 'l1_d3AtY29udGVudC9pbmRleC5waHA',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudA',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510857370,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9jYWNoZQ',
+      'name' => 'cache',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:54:15 +0000] TREE: array (
+  'tree' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1511190567,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'name' => 'themes',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510859406,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvdHAtcGhpbG9zb3BoeQ',
+      'name' => 'tp-philosophy',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510860988,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvaWRlYWxpc3Q',
+      'name' => 'idealist',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510847281,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvd3JpdGVl',
+      'name' => 'writee',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861015,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2xlYW4tZWR1Y2F0aW9u',
+      'name' => 'clean-education',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861070,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWNhZGVtaWM',
+      'name' => 'academic',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvdHdlbnR5c2V2ZW50ZWVu',
+      'name' => 'twentyseventeen',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvdHdlbnR5ZmlmdGVlbg',
+      'name' => 'twentyfifteen',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852519,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvaS1tYXg',
+      'name' => 'i-max',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852326,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvd2VuLWFzc29jaWF0ZQ',
+      'name' => 'wen-associate',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvdHdlbnR5c2l4dGVlbg',
+      'name' => 'twentysixteen',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852748,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvaW50ZWdyYWw',
+      'name' => 'integral',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861125,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRl',
+      'name' => 'alante',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852329,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvd2VuLWJ1c2luZXNz',
+      'name' => 'wen-business',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852066,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvZmxhdC1yZXNwb25zaXZl',
+      'name' => 'flat-responsive',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852813,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvZWR1LWNhcmU',
+      'name' => 'edu-care',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510848018,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvZ3JhdmlkYQ',
+      'name' => 'gravida',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852745,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvb3B0aW1hbA',
+      'name' => 'optimal',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510860916,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvbWVyY2lh',
+      'name' => 'mercia',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+      'name' => 'alante-business',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852309,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvcHJlZmVyZW50aWFsLWxpdGU',
+      'name' => 'preferential-lite',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:55:07 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1511190567,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+    'name' => 'themes',
+    'phash' => 'l1_d3AtY29udGVudA',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'test/wp-content/themes',
+    'url' => 'http://pearlny.org/test/',
+    'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510859406,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvdHAtcGhpbG9zb3BoeQ',
+      'name' => 'tp-philosophy',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510860988,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvaWRlYWxpc3Q',
+      'name' => 'idealist',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510847281,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvd3JpdGVl',
+      'name' => 'writee',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861015,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvY2xlYW4tZWR1Y2F0aW9u',
+      'name' => 'clean-education',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861070,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWNhZGVtaWM',
+      'name' => 'academic',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvdHdlbnR5c2V2ZW50ZWVu',
+      'name' => 'twentyseventeen',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvdHdlbnR5ZmlmdGVlbg',
+      'name' => 'twentyfifteen',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852519,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvaS1tYXg',
+      'name' => 'i-max',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852326,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvd2VuLWFzc29jaWF0ZQ',
+      'name' => 'wen-associate',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510770136,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvdHdlbnR5c2l4dGVlbg',
+      'name' => 'twentysixteen',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852748,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvaW50ZWdyYWw',
+      'name' => 'integral',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861125,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRl',
+      'name' => 'alante',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852329,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvd2VuLWJ1c2luZXNz',
+      'name' => 'wen-business',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852066,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvZmxhdC1yZXNwb25zaXZl',
+      'name' => 'flat-responsive',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852813,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvZWR1LWNhcmU',
+      'name' => 'edu-care',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510848018,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvZ3JhdmlkYQ',
+      'name' => 'gravida',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852745,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvb3B0aW1hbA',
+      'name' => 'optimal',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510860916,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvbWVyY2lh',
+      'name' => 'mercia',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+      'name' => 'alante-business',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1402018154,
+      'read' => 1,
+      'write' => 1,
+      'size' => '28',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvaW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510852309,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvcHJlZmVyZW50aWFsLWxpdGU',
+      'name' => 'preferential-lite',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:55:12 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1510861122,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+    'name' => 'alante-business',
+    'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'test/wp-content/themes/alante-business',
+    'url' => 'http://pearlny.org/test/',
+    'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcw',
+      'name' => 'images',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'image/png',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => '287739',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL3NjcmVlbnNob3QucG5n',
+      'name' => 'screenshot.png',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+      'tmb' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1995',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2Z1bmN0aW9ucy5waHA',
+      'name' => 'functions.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/css',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3584',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL3N0eWxlLmNzcw',
+      'name' => 'style.css',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2808',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL3JlYWRtZS50eHQ',
+      'name' => 'readme.txt',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:55:13 +0000] TMB: array (
+  'images' => 
+  array (
+    'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL3NjcmVlbnNob3QucG5n' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL3NjcmVlbnNob3QucG5n1510861122.png',
+  ),
+) 
+[Mon, 20 Nov 2017 16:55:16 +0000] TREE: array (
+  'tree' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1510861122,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcw',
+      'name' => 'images',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcy9zbGlkZXNob3c',
+      'name' => 'slideshow',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcw',
+      'volumeid' => 'l1_',
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:55:18 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1510861122,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcy9zbGlkZXNob3c',
+    'name' => 'slideshow',
+    'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcw',
+    'volumeid' => 'l1_',
+  ),
+  'options' => 
+  array (
+    'path' => 'test/wp-content/themes/alante-business/images/slideshow',
+    'url' => 'http://pearlny.org/test/',
+    'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'image/png',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => '202419',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcy9zbGlkZXNob3cvc2xpZGVfZGVtbzEucG5n',
+      'name' => 'slide_demo1.png',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcy9zbGlkZXNob3c',
+      'tmb' => 1,
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:55:19 +0000] TMB: array (
+  'images' => 
+  array (
+    'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcy9zbGlkZXNob3cvc2xpZGVfZGVtbzEucG5n' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcy9zbGlkZXNob3cvc2xpZGVfZGVtbzEucG5n1510861122.png',
+  ),
+) 
+[Mon, 20 Nov 2017 16:55:20 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1510861122,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcw',
+    'name' => 'images',
+    'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'test/wp-content/themes/alante-business/images',
+    'url' => 'http://pearlny.org/test/',
+    'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcy9zbGlkZXNob3c',
+      'name' => 'slideshow',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcw',
+      'volumeid' => 'l1_',
+    ),
+  ),
+) 
+[Mon, 20 Nov 2017 16:55:34 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1510861122,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+    'name' => 'alante-business',
+    'phash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'test/wp-content/themes/alante-business',
+    'url' => 'http://pearlny.org/test/',
+    'tmbUrl' => 'http://pearlny.org/test/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/x-tar',
+        1 => 'application/x-gzip',
+        2 => 'application/x-bzip2',
+        3 => 'application/zip',
+      ),
+      'createext' => 
+      array (
+        'application/x-tar' => 'tar',
+        'application/x-gzip' => 'tgz',
+        'application/x-bzip2' => 'tbz',
+        'application/zip' => 'zip',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2ltYWdlcw',
+      'name' => 'images',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'image/png',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => '287739',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL3NjcmVlbnNob3QucG5n',
+      'name' => 'screenshot.png',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+      'tmb' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL3NjcmVlbnNob3QucG5n1510861122.png',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1995',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL2Z1bmN0aW9ucy5waHA',
+      'name' => 'functions.php',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/css',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3584',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL3N0eWxlLmNzcw',
+      'name' => 'style.css',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1510861122,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2808',
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNzL3JlYWRtZS50eHQ',
+      'name' => 'readme.txt',
+      'phash' => 'l1_d3AtY29udGVudC90aGVtZXMvYWxhbnRlLWJ1c2luZXNz',
+    ),
+  ),
+) 

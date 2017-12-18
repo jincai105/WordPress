@@ -1,0 +1,2 @@
+[20-Nov-2017 23:28:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pearcsqa/public_html/pearlny.org/test/wp-content/plugins/post-grid/grid-items/variables.php on line 114
+[20-Nov-2017 23:28:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pearcsqa/public_html/pearlny.org/test/wp-content/plugins/post-grid/grid-items/variables.php on line 114

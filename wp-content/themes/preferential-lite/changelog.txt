@@ -1,0 +1,114 @@
+
+-------------------------------------------------------
+    CHANGELOG
+-------------------------------------------------------
+
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating 
+bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at 
+what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different 
+parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+
+-------------------------------------------------------
+    CHANGELOG Legend
+-------------------------------------------------------
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+-------------------------------------------------------
+    Versioning Legend 1.2.3
+-------------------------------------------------------
+
+[1] MAJOR version when you make major changes
+[2] MINOR version when you add a features or functions
+[3] PATCH version when you make bug fixes or minor feature adjustments
+
+=======================================================
+
+----
+
+[May 7, 2014] Version 1.0.0 Styled Themes <www.styledthemes.com>
+
+[] Preferential Lite released
+
+----
+
+[October 11, 2014] Version 1.0.1 Styled Themes <www.styledthemes.com>
+
+[+] Added missing sanitation to the "Hide Social" setting in the customizer
+[x] Deleted an extra content width function in the functions.php that was not needed
+[*] Updated the theme details in the style.css file
+[*] Updated the README.txt file
+[*] Updated the language .pot file
+
+[Dec 24, 2014] Version 1.0.4 Styled Themes <www.styledthemes.com>
+
+[+] Added missing bootstrap.js in js folder
+
+--------
+[March 13, 2015] Version 1.0.5 Styled Themes <www.styledthemes.com>
+
+[+] IE compatibility bug fixed
+
+--------
+(April 20, 2015) Version 1.0.6 Styled Themes <www.styledthemes.com>
+[+] WooCommerce Support Added
+
+--------
+(June 23, 2015) - Adjustments - Version 1.0.7
+
+[+] Documentation Link Added
+[!] Editor Style Bug Fix
+
+--------
+(December 8, 2015) - Adjustments - Version 1.1.0
+
+[!] Removed the wp_title() and added add_theme_support('title-tag')
+[*] Changed the text domain of the theme to match the slug of the theme
+[*] Removed the preferentiallite.pot file and added preferential-lite.pot file
+
+----------
+
+(January 21, 2016) - Adjustments - Version 1.1.1
+
+[!] Customizer console bug Fixed
+
+----------
+
+(March 03, 2016) - Adjustments - Version 1.1.2
+
+[!] The custoizer preview bug Fixed.
+
+-----------
+
+(March 11, 2016) - Adjustments - Version 1.1.3
+
+[!] Banner images bug Fixed
+
+-----------
+
+(April 08, 2016) - Adjustments - Version 2.0.0
+
+[+] Customizer setting to hide default banner image
+[+] Customizer setting to show banner on all inner pages
+[!] Default banner image bug Fixed 
+
+(April 14, 2016) - Adjustments - Version 2.0.1
+
+[+] Customizer widget title border conflict bug Fixed
+
+------------
+
+(April 22, 2016) - Adjustments - Version 2.0.2
+
+[+] Customizer hide page title setting bug Fixed
+
+(November  22, 2016) - Adjustments - Version 2.0.3
+
+[*] Sanitization function for color and url Changed
+[x] Deprecated tags from theme tags Deleted

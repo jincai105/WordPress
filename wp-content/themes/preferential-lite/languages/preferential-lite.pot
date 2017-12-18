@@ -1,0 +1,245 @@
+# Copyright (C) 2015 preferential-lite
+# This file is distributed under the same license as the preferential-lite package.
+msgid ""
+msgstr ""
+"Project-Id-Version: preferential-lite\n"
+"Report-Msgid-Bugs-To: http://styledthemes.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Styled Themes <info@styledthemes.com>\n"
+"Language-Team: Team Team <info@styledthemes.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+
+#: wp-content/themes/preferential-lite/404.php:35
+msgid "Page Not Found"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/404.php:37
+msgid "Well this does not look good.<br />It appears this page is missing or was removed."
+msgstr ""
+
+#: wp-content/themes/preferential-lite/404.php:43
+msgid "If what you were looking for is not found, you may want to try searching with keywords relevant to what you were looking for."
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:63
+msgid "Articles by %s"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:69, wp-content/themes/preferential-lite/archive.php:75, wp-content/themes/preferential-lite/archive.php:81
+msgid "Articles from %s"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:75
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:81
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:87
+msgid "Asides"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:93
+msgid "Galleries"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:99
+msgid "Images"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:105
+msgid "Videos"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:111
+msgid "Quotes"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:117
+msgid "Links"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:123
+msgid "Statuses"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:129
+msgid "Audios"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:135
+msgid "Chats"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/archive.php:141
+msgid "Archives"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/comments.php:55
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/themes/preferential-lite/comments.php:69, wp-content/themes/preferential-lite/comments.php:97
+msgid "Comment navigation"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/comments.php:71, wp-content/themes/preferential-lite/comments.php:99
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/comments.php:73, wp-content/themes/preferential-lite/comments.php:101
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/comments.php:121
+msgid "Comments are closed."
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-aside.php:63
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-aside.php:81, wp-content/themes/preferential-lite/content-audio.php:41, wp-content/themes/preferential-lite/content-gallery.php:25, wp-content/themes/preferential-lite/content-page.php:49, wp-content/themes/preferential-lite/content-status.php:77, wp-content/themes/preferential-lite/content-video.php:91, wp-content/themes/preferential-lite/content.php:81
+msgid "Edit"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-audio.php:43, wp-content/themes/preferential-lite/content-video.php:43
+msgid "Untitled"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-gallery.php:45, wp-content/themes/preferential-lite/content-image.php:45, wp-content/themes/preferential-lite/content-search.php:39, wp-content/themes/preferential-lite/content-video.php:67
+msgid "Leave a comment"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-gallery.php:45, wp-content/themes/preferential-lite/content-image.php:45, wp-content/themes/preferential-lite/content-search.php:39, wp-content/themes/preferential-lite/content-video.php:67
+msgid "1 Comment"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-gallery.php:45, wp-content/themes/preferential-lite/content-image.php:45, wp-content/themes/preferential-lite/content-search.php:39, wp-content/themes/preferential-lite/content-video.php:67
+msgid "% Comments"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-gallery.php:61, wp-content/themes/preferential-lite/content-image.php:63, wp-content/themes/preferential-lite/content-video.php:79
+msgid "See More..."
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-gallery.php:65, wp-content/themes/preferential-lite/content-image.php:67, wp-content/themes/preferential-lite/content-page.php:35, wp-content/themes/preferential-lite/content-status.php:59, wp-content/themes/preferential-lite/image.php:89
+msgid "Pages:"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-link.php:55
+msgid "Continue reading..."
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-none.php:25
+msgid "Nothing Found"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-none.php:37
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-none.php:45
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-none.php:55
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-quote.php:57
+msgid "Read Full Quote..."
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-search.php:37, wp-content/themes/preferential-lite/content-video.php:65
+msgid "Comments: "
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-single.php:67
+msgid "Edit This Post"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-single.php:75
+msgid "<span class=\"meta-tagged\">Tagged with:<span class=\"entry-meta-value\">"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-single.php:77
+msgid "<span class=\"meta-posted\">Posted in:<span class=\"entry-meta-value\"> %s"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-single.php:79
+msgid "<span class=\"meta-author\">Articles by: %s"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-single.php:81
+msgid "Published: "
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content-status.php:57
+msgid "Read Full Status"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/content.php:53, wp-content/themes/preferential-lite/content.php:61
+msgid "Continue Reading..."
+msgstr ""
+
+#: wp-content/themes/preferential-lite/footer.php:69
+msgid "Copyright &copy;"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/footer.php:71
+msgid "All rights reserved."
+msgstr ""
+
+#: wp-content/themes/preferential-lite/functions.php:135
+msgid "Primary Menu"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/functions.php:137
+msgid "Footer Menu"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/header.php:99
+msgid "Menu"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/header.php:101
+msgid "Skip to content"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/search.php:35
+msgid "Search Results for: %s"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/searchform.php:21
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/searchform.php:29
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/searchform.php:29
+msgid "Go!"
+msgstr ""
+
+#: wp-content/themes/preferential-lite/sidebar.php:23
+msgid "Right Column"
+msgstr ""

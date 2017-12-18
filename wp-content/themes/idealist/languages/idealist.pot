@@ -1,0 +1,349 @@
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Idealist 1.1.3\n"
+"POT-Creation-Date: 2017-11-12 09:34-0800\n"
+"PO-Revision-Date: 2017-11-12 09:34-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:22
+msgid "Yikes! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid "Would you like to try searching for it?"
+msgstr ""
+
+#. translators: handle singular or plural based on the number of comments
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:41 comments.php:63
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:45 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:31
+msgid "Idealist by"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:113
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:115
+msgid ""
+"Add widgets here to display on the right side of your posts. This sidebar is "
+"displayed on the Front Page by default, and with the Two Panel Template."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: functions.php:233 template-parts/content.php:45
+#, php-format
+msgid "more<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:53
+msgid "Toggle navigation"
+msgstr ""
+
+#: header.php:82
+msgid "Search ..."
+msgstr ""
+
+#: inc/custom-header.php:49
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Idealist Options"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Panel to update Idealist theme options"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Settings"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Show Borders"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Show Comments Badge"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "copyright notice or license agreement:"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Enter text here to display in footer."
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "Quick Start Quide to Make Your Front Page Look Like the Screenshot:"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Add a Logo"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "1. Go to Appearance / Customize / Site Identity."
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "2. Select a logo. A square works best."
+msgstr ""
+
+#: inc/customizer.php:210 inc/customizer.php:219 inc/customizer.php:229
+msgid "3. Select 'Save & Publish'."
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Set the Colors"
+msgstr ""
+
+#: inc/customizer.php:212
+msgid "1. Go to Appearance / Customize / Colors."
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "2. Set Header Text Color to #212121."
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "3. Set Background Color to #e8e8e8."
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "4. Select 'Save & Publish'."
+msgstr ""
+
+#: inc/customizer.php:216
+msgid "Set the Header Image"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "1. Go to Appearance / Customize / Header Image."
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "2. Use a jpeg that is at least 1920 x 600 pixels."
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Setup the Sidebar"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "1. Go to Appearance / Customize / Widgets."
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "2. Add the Recent Posts widget."
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "3. Add a Text widget for an About section."
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "4. Delete the other widgets."
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "5. Select 'Save & Publish'."
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Set the Front Page"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "1. Go to Appearance / Customize / Static Front Page."
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "2. Set to 'Your latest posts'."
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Extras"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "1. Go to Appearance / Customize / Idealist Options / Settings."
+msgstr ""
+
+#: inc/customizer.php:232
+msgid "2. Toggle the Comments Badge and Borders."
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "3. Add Text to the Footer."
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "Thank you for using the WordPress Idealist theme!"
+msgstr ""
+
+#. translators: displays post date
+#: inc/template-tags.php:27
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: displays post author
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:57
+msgid ", "
+msgstr ""
+
+#. translators: displays categories
+#: inc/template-tags.php:53
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: tags
+#: inc/template-tags.php:60
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:67
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:74 template-parts/content-page.php:34
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/wp-bootstrap-navwalker.php:214
+msgid "Add a menu"
+msgstr ""
+
+#. translators: displays search term entered
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: template-parts/content-full-post.php:26 template-parts/content-search.php:26
+#: template-parts/content.php:29
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content-full-post.php:52 template-parts/content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: displays link to URL to publish first post.
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Idealist"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Idealist is a minimalist theme for blogs and news sites"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "S. Price"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://newmediathemes.com"
+msgstr ""
